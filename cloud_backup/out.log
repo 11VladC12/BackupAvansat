@@ -1,0 +1,141 @@
+Advanced File Backup Tool - Bash Edition
+Usage:
+  ./backup.sh [options]
+Options:
+  -h, --help            Show this help message
+  -u, --usage           Show usage instructions
+  --debug=on|off        Enable or disable debug mode (default: off)
+Interactive Features:
+  - Find files older than a specific date and move/delete them
+  - Schedule automatic cleanup
+  - File operations like rename, edit content, and custom features
+Usage examples:
+1. Run the script: ./backup.sh
+2. Enable debug: ./backup.sh --debug=on
+3. Get help: ./backup.sh --help
+[DEBUG] Starting script.
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Enter date or duration (e.g., 2023-01-01 or 10d for 10 days):
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Enter date or duration (e.g., 2023-01-01 or 10d for 10 days):
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Invalid option.
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Enter date or duration (e.g., 2023-01-01 or 10d for 10 days):
+./rezerva64.xx.zip
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Invalid option.
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Enter date or duration (e.g., 2023-01-01 or 10d for 10 days):
+./rezerva64.xx.zip
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Enter date or duration (e.g., 2023-01-01 or 10d for 10 days):
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Enter target directory:
+mv: cannot move 'backup' to a subdirectory of itself, 'backup/backup'
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+[DEBUG] Syncing logs to cloud.
+cp: cannot stat 'out.log': No such file or directory
+./backup.sh: line 99: cd: cloud_backup: No such file or directory
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'atlant@atlant-VirtualBox.(none)')
+Everything up-to-date
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
