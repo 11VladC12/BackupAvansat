@@ -237,3 +237,380 @@ Choose an option:
 ==========================================
 [2025-01-04 13:34:32] Syncing to Cloud
 ==========================================
+[main 73c1882] Update logs: Sat Jan  4 01:34:32 PM EET 2025
+ 1 file changed, 166 insertions(+)
+To github.com:11VladC12/BackupAvansat.git
+   0a2fcbe..73c1882  main -> main
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+./backup.sh: line 184: start_log_section: command not found
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+./backup.sh: line 85: start_log_section: command not found
+Available files:
+1) backup	     4) file2updated.log  7) rezerva64.xx.zip
+2) backup.sh	     5) file3.old
+3) cloud_backup	     6) out.log
+#? Selected file: file2updated.log
+Move to default backup folder? (y/n):
+Enter target directory:
+./backup.sh: line 44: start_log_section: command not found
+[main 696b57d] Sync: Sat Jan  4 01:40:05 PM EET 2025
+ 2 files changed, 4 insertions(+)
+ create mode 100644 cloud_backup/moved_files/file1.txt
+ create mode 100644 cloud_backup/moved_files/file2updated.log
+To github.com:11VladC12/BackupAvansat.git
+   73c1882..696b57d  main -> main
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+./backup.sh: line 85: start_log_section: command not found
+Available files:
+1) backup	     3) cloud_backup	  5) out.log
+2) backup.sh	     4) file3.old	  6) rezerva64.xx.zip
+#? Selected file: backup
+Move to default backup folder? (y/n):
+mv: cannot move 'backup' to a subdirectory of itself, './backup/backup'
+cp: cannot stat './backup/backup': No such file or directory
+./backup.sh: line 44: start_log_section: command not found
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../backup.sh
+	../backup/
+	../file3.old
+	../out.log
+	../rezerva64.xx.zip
+
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:49:14] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:49:22] Move Files
+==========================================
+Available files:
+1) backup	     3) cloud_backup	  5) out.log
+2) backup.sh	     4) file3.old	  6) rezerva64.xx.zip
+#? Selected file: file3.old
+Move the file to:
+1. Local backup directory
+2. Cloud backup
+Choose an option (1/2):
+==========================================
+[2025-01-04 13:49:41] Syncing to Cloud
+==========================================
+[main 924dfc3] Sync: Sat Jan  4 01:49:41 PM EET 2025
+ 1 file changed, 1 insertion(+)
+ create mode 100644 cloud_backup/moved_files/file3.old
+To github.com:11VladC12/BackupAvansat.git
+   696b57d..924dfc3  main -> main
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:50:37] Move Files
+==========================================
+Available files:
+1) backup	     3) cloud_backup	  5) out.log
+2) backup.sh	     4) file3.old	  6) rezerva64.xx.zip
+#? Selected file: file3.old
+Move the file to:
+1. Local backup directory
+2. Cloud backup
+Choose an option (1/2):
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:53:27] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:53:31] Move Files
+==========================================
+Available files:
+1) backup	     3) cloud_backup	  5) rezerva64.xx.zip
+2) backup.sh	     4) out.log
+#? Selected file: rezerva64.xx.zip
+Move the file to:
+1. Local backup directory (specify a location)
+2. Cloud backup
+Choose an option (1/2):
+Current directories in this location:
+find: warning: you have specified the global option -maxdepth after the argument -type, but global options are not positional, i.e., -maxdepth affects tests specified before it as well as those specified after it.  Please specify global options before other arguments.
+./cloud_backup
+./.git
+./backup
+Enter the target directory (absolute or relative path):
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:56:33] Move Files
+==========================================
+Available files:
+1) backup	     4) file1.txt	  7) out.log
+2) backup.sh	     5) file2updated.log  8) rezerva64.xx.zip
+3) cloud_backup	     6) file3.old
+#? Selected file: file1.txt
+Move the file to:
+1. Local backup directory (specify a location)
+2. Cloud backup
+Choose an option (1/2):
+==========================================
+[2025-01-04 13:57:07] Syncing to Cloud
+==========================================
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../backup.sh
+	../file1.txt
+	../file2updated.log
+	../file3.old
+	../out.log
+	../rezerva64.xx.zip
+
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:58:39] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+Enter date or duration (e.g., 2023-01-01 or 10d):
+==========================================
+[2025-01-04 13:58:49] Find Files
+==========================================
+find: paths must precede expression: `Invalid'
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+Enter date or duration (e.g., 2023-01-01 or 10d):
+==========================================
+[2025-01-04 13:58:55] Find Files
+==========================================
+./.gitignore
+./rezerva64.xx.zip
+./.git/logs/refs/remotes/origin/HEAD
+./.git/refs/remotes/origin/HEAD
+./.git/packed-refs
+./.git/objects/0a/ac7776563f8025b3cfdd9bdb798adf620749ac
+./.git/objects/52/784248988fbf0c9da38ea28583e99286fff18d
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.idx
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.pack
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.rev
+./.git/objects/98/9ea4a6b7ecb5d6bf89604eec85362348e82bd5
+./.git/objects/a4/1e6c4e01f164c30b75437472cbe63662bd31b2
+./.git/objects/0b/f8e386f9706f61f199202ad72bc9ad3756a823
+./.git/objects/42/48fddb726b042615240d5fd53cd1591c902c00
+./.git/objects/6c/e0ae9805b8c447f41b188063f16d21f0527be7
+./.git/description
+./.git/info/exclude
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/sendemail-validate.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/update.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/push-to-checkout.sample
+./.git/HEAD
+./file2updated.log
+./file3.old
+./file1.txt
+./.gitignore
+./rezerva64.xx.zip
+./.git/logs/refs/remotes/origin/HEAD
+./.git/refs/remotes/origin/HEAD
+./.git/packed-refs
+./.git/objects/0a/ac7776563f8025b3cfdd9bdb798adf620749ac
+./.git/objects/52/784248988fbf0c9da38ea28583e99286fff18d
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.idx
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.pack
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.rev
+./.git/objects/98/9ea4a6b7ecb5d6bf89604eec85362348e82bd5
+./.git/objects/a4/1e6c4e01f164c30b75437472cbe63662bd31b2
+./.git/objects/0b/f8e386f9706f61f199202ad72bc9ad3756a823
+./.git/objects/42/48fddb726b042615240d5fd53cd1591c902c00
+./.git/objects/6c/e0ae9805b8c447f41b188063f16d21f0527be7
+./.git/description
+./.git/info/exclude
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/sendemail-validate.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/update.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/push-to-checkout.sample
+./.git/HEAD
+./file2updated.log
+./file3.old
+./file1.txt
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:59:21] Syncing to Cloud
+==========================================
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../backup.sh
+	../ex1.txt
+	../ex2.txt
+	../ex3.txt
+	../ex4.txt
+	../ex5.txt
+	../file1.txt
+	../file2updated.log
+	../file3.old
+	../out.log
+	../rezerva64.xx.zip
+
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:01:03] Syncing to Cloud
+==========================================
+[main b2bad74] Sync: Sat Jan  4 02:01:03 PM EET 2025
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 cloud_backup/moved_files/ex1.txt
+To github.com:11VladC12/BackupAvansat.git
+   924dfc3..b2bad74  main -> main
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:05:44] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:05:45] Syncing to Cloud
+==========================================
