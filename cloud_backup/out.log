@@ -71,3 +71,169 @@ Choose an option:
 ==========================================
 [2025-01-04 13:27:59] Syncing to Cloud
 ==========================================
+[main 0a2fcbe] Update logs: Sat Jan  4 01:27:59 PM EET 2025
+ 1 file changed, 16 insertions(+)
+To github.com:11VladC12/BackupAvansat.git
+   8d5a660..0a2fcbe  main -> main
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:31:12] Rename Files
+==========================================
+Available files:
+1) backup	     4) file2.log	  7) rezerva64.xx.zip
+2) backup.sh	     5) file3.old
+3) cloud_backup	     6) out.log
+#? Selected file: file2.log
+Enter the new name for the file (with extension):
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Enter date or duration (e.g., 2023-01-01 or 10d):
+==========================================
+[2025-01-04 13:32:28] Find Files
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Invalid option.
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Invalid option.
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Enter date or duration (e.g., 2023-01-01 or 10d):
+==========================================
+[2025-01-04 13:33:13] Find Files
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Invalid option.
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+Enter date or duration (e.g., 2023-01-01 or 10d):
+==========================================
+[2025-01-04 13:33:55] Find Files
+==========================================
+./.gitignore
+./rezerva64.xx.zip
+./.git/logs/refs/remotes/origin/HEAD
+./.git/refs/remotes/origin/HEAD
+./.git/packed-refs
+./.git/objects/0a/ac7776563f8025b3cfdd9bdb798adf620749ac
+./.git/objects/52/784248988fbf0c9da38ea28583e99286fff18d
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.idx
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.pack
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.rev
+./.git/objects/98/9ea4a6b7ecb5d6bf89604eec85362348e82bd5
+./.git/objects/a4/1e6c4e01f164c30b75437472cbe63662bd31b2
+./.git/objects/0b/f8e386f9706f61f199202ad72bc9ad3756a823
+./.git/objects/42/48fddb726b042615240d5fd53cd1591c902c00
+./.git/objects/6c/e0ae9805b8c447f41b188063f16d21f0527be7
+./.git/description
+./.git/info/exclude
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/sendemail-validate.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/update.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/push-to-checkout.sample
+./.git/HEAD
+./file2updated.log
+./file3.old
+./backup/file1.txt
+./.gitignore
+./rezerva64.xx.zip
+./.git/logs/refs/remotes/origin/HEAD
+./.git/refs/remotes/origin/HEAD
+./.git/packed-refs
+./.git/objects/0a/ac7776563f8025b3cfdd9bdb798adf620749ac
+./.git/objects/52/784248988fbf0c9da38ea28583e99286fff18d
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.idx
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.pack
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.rev
+./.git/objects/98/9ea4a6b7ecb5d6bf89604eec85362348e82bd5
+./.git/objects/a4/1e6c4e01f164c30b75437472cbe63662bd31b2
+./.git/objects/0b/f8e386f9706f61f199202ad72bc9ad3756a823
+./.git/objects/42/48fddb726b042615240d5fd53cd1591c902c00
+./.git/objects/6c/e0ae9805b8c447f41b188063f16d21f0527be7
+./.git/description
+./.git/info/exclude
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/sendemail-validate.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/update.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/push-to-checkout.sample
+./.git/HEAD
+./file2updated.log
+./file3.old
+./backup/file1.txt
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:34:32] Syncing to Cloud
+==========================================
