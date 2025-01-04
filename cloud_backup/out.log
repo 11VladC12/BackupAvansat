@@ -614,3 +614,19 @@ Choose an option:
 ==========================================
 [2025-01-04 14:05:45] Syncing to Cloud
 ==========================================
+[main f2da044] Sync: Sat Jan  4 02:05:45 PM EET 2025
+ 1 file changed, 377 insertions(+)
+To github.com:11VladC12/BackupAvansat.git
+   b2bad74..f2da044  main -> main
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:06:09] Syncing to Cloud
+==========================================
