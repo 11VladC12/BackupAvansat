@@ -6,3 +6,15 @@ Choose an option:
 5. Edit files
 6. Schedule weekly cleanup
 7. Exit
+[main b3e033b] Update logs: Sat Jan  4 01:24:29 PM EET 2025
+To github.com:11VladC12/BackupAvansat.git
+   54b99ce..b3e033b  main -> main
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
