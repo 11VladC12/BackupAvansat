@@ -18,3 +18,40 @@ Choose an option:
 5. Edit files
 6. Schedule weekly cleanup
 7. Exit
+[main b406aab] Update logs: Sat Jan  4 01:25:31 PM EET 2025
+ 1 file changed, 12 insertions(+)
+To github.com:11VladC12/BackupAvansat.git
+   b3e033b..b406aab  main -> main
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally
+3. Sync files to cloud
+4. Rename files
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:26:41] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:26:47] Move Files
+==========================================
+Available files:
+1) backup	     4) file1.txt	  7) out.log
+2) backup.sh	     5) file2.log	  8) rezerva64.xx.zip
+3) cloud_backup	     6) file3.old
+#? Selected file: file1.txt
+Default backup folder: ./backup
+Do you want to move to default folder? (y/n):
+==========================================
+[2025-01-04 13:27:09] Syncing to Cloud
+==========================================
