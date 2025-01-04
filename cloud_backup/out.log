@@ -55,3 +55,19 @@ Do you want to move to default folder? (y/n):
 ==========================================
 [2025-01-04 13:27:09] Syncing to Cloud
 ==========================================
+[main 8d5a660] Update logs: Sat Jan  4 01:27:09 PM EET 2025
+ 1 file changed, 37 insertions(+)
+To github.com:11VladC12/BackupAvansat.git
+   b406aab..8d5a660  main -> main
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit files
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 13:27:59] Syncing to Cloud
+==========================================
