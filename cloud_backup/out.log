@@ -630,3 +630,952 @@ Choose an option:
 ==========================================
 [2025-01-04 14:06:09] Syncing to Cloud
 ==========================================
+[main 1485490] Sync: Sat Jan  4 02:06:09 PM EET 2025
+ 2 files changed, 16 insertions(+)
+ create mode 100644 cloud_backup/moved_files/ex3.txt
+To github.com:11VladC12/BackupAvansat.git
+   f2da044..1485490  main -> main
+/home/atlant/Desktop/BackupAvansat
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:07:07] Rename Files
+==========================================
+Available files:
+1) backup	       5) ex4.txt	     9) file3.old
+2) backup.sh	       6) ex5.txt	    10) out.log
+3) cloud_backup	       7) file1.txt	    11) rezerva64.xx.zip
+4) ex2.txt	       8) file2updated.log
+#? Selected file: ex4.txt
+Enter the new name for the file (with extension):
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:07:55] Edit Files
+==========================================
+Available files:
+1) backup	       5) ex4update.txt	     9) file3.old
+2) backup.sh	       6) ex5.txt	    10) out.log
+3) cloud_backup	       7) file1.txt	    11) rezerva64.xx.zip
+4) ex2.txt	       8) file2updated.log
+#? Selected file: ex2.txt
+Opening file for editing...
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                         ex2.txt                                  [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[1;48H(B[0;7m*[79G(B[m[22;29H(B[0;7m[ Justified paragraph ](B[m[2ddsvsvadsvadsvdsvs[3d[?12l[?25h[?25l[?12l[?25h==========================================
+[2025-01-04 14:10:46] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:10:49] Edit Files
+==========================================
+Available files:
+1) backup	       5) ex4update.txt	     9) file3.old
+2) backup.sh	       6) ex5.txt	    10) out.log
+3) cloud_backup	       7) file1.txt	    11) rezerva64.xx.zip
+4) ex2.txt	       8) file2updated.log
+#? Selected file: ex2.txt
+Opening file for editing...
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                         ex2.txt                                  [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[1;48H(B[0;7m*[22d(B[m[K[1;79H[22;29H(B[0;7m[ Justified paragraph ](B[m[2dddddddddddddddddddjjxxj[3d[?12l[?25h[?25l[?12l[?25h[?25l[22;52H[2;25Hy[3d[?12l[?25h[?25l[?12l[?25h[?25l[22;52H[2;27Hfvf[3d[?12l[?25h[?25l[22;52H[2;31Hffffffffffffffffffffffffff[3d[?12l[?25h[?25l[22;52H[2;58Hddddddddddddd[3d[?12l[?25h[?25l[22;52H[2;72Hs[3d[?12l[?25h[?25l[22;52H[3dsssssssss[4d[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[22;52H[3;8Hcdvsv[4d[?12l[?25h[?25l[?12l[?25h[?25l[22;52H[3;14Hsdvsdvsdv[4d[?12l[?25h[?25l[22;52H[3;24Hsddddddddddd[4d[?12l[?25h[?25l[22;52H[3;37Hsssssssssss[4d[?12l[?25h[?25l[22;11H(B[0;7m[ line  3/3 (100%), col  1/ 1 (100%), char 122/122 (100%) ](B[m[22;28H[1K (B[0;7m[ Justified paragraph ](B[m[K[3;49Hkill %1[4d[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[22;52H[3;57Hsss[4d[?12l[?25h==========================================
+[2025-01-04 14:29:44] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:29:53] Edit Files
+==========================================
+Available files:
+1) backup	       5) ex4update.txt	     9) file3.old
+2) backup.sh	       6) ex5.txt	    10) out.log
+3) cloud_backup	       7) file1.txt	    11) rezerva64.xx.zip
+4) ex2.txt	       8) file2updated.log
+#? Selected file: ex5.txt
+Opening file for editing...
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                         ex5.txt                                  [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h==========================================
+[2025-01-04 14:34:20] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:34:27] Edit Files
+==========================================
+Available files:
+1) backup	       5) ex4update.txt	     9) file3.old
+2) backup.sh	       6) ex5.txt	    10) out.log
+3) cloud_backup	       7) file1.txt	    11) rezerva64.xx.zip
+4) ex2.txt	       8) file2updated.log
+#? Selected file: ex5.txt
+Opening file for editing...
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                         ex5.txt                                  [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h==========================================
+[2025-01-04 14:36:09] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:36:11] Edit Files
+==========================================
+Available files:
+1) backup	       5) ex4update.txt	     9) file3.old
+2) backup.sh	       6) ex5.txt	    10) out.log
+3) cloud_backup	       7) file1.txt	    11) rezerva64.xx.zip
+4) ex2.txt	       8) file2updated.log
+#? Selected file: ex4update.txt
+You selected ex4update.txt. Do you want to append 'Deprecated' to it? (y/n):
+The text 'Deprecated' has been added to the end of ex4update.txt.
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:39:25] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:39:27] Edit Files
+==========================================
+Available files:
+1) backup	       5) ex4update.txt	     9) file3.old
+2) backup.sh	       6) ex5.txt	    10) out.log
+3) cloud_backup	       7) file1.txt	    11) rezerva64.xx.zip
+4) ex2.txt	       8) file2updated.log
+#? Selected file: ex5.txt
+The text 'Deprecated' has been added to the end of ex5.txt.
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:39:45] Rename Files
+==========================================
+Available files:
+1) backup	       5) ex4update.txt	     9) file3.old
+2) backup.sh	       6) ex5.txt	    10) out.log
+3) cloud_backup	       7) file1.txt	    11) rezerva64.xx.zip
+4) ex2.txt	       8) file2updated.log
+#? Selected file: ex4update.txt
+Enter the new name for the file (with extension):
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-04 14:40:03] Schedule Cleanup
+==========================================
+Enter a cron expression (e.g., '0 0 * * 1' for weekly on Monday):
+==========================================
+[2025-01-05 19:55:38] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync files to cloud
+4. Rename a file
+5. Edit a file
+6. Schedule weekly cleanup
+7. Exit
+==========================================
+[2025-01-06 00:13:15] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync out.log to cloud
+4. Schedule weekly cleanup
+5. Exit
+==========================================
+[2025-01-06 00:27:07] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync out.log to cloud
+4. Schedule weekly cleanup
+5. Exit
+==========================================
+[2025-01-06 00:27:15] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync out.log to cloud
+4. Schedule weekly cleanup
+5. Configure application
+6. Exit
+Configuration Options:
+1. Set default cleanup path
+2. Set default file extension for renaming
+Enter your choice (1/2):
+Enter the default cleanup path:
+Default cleanup path set to: ./baackup
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync out.log to cloud
+4. Schedule weekly cleanup
+5. Configure application
+6. Exit
+Configuration Options:
+1. Set default cleanup path
+2. Set default file extension for renaming
+Enter your choice (1/2):
+Enter the default file extension (e.g., .old):
+==========================================
+[2025-01-06 00:28:39] Script Started
+==========================================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync out.log to cloud
+4. Schedule weekly cleanup
+5. Configure application
+6. Exit
+==========================================
+[2025-01-06 00:28:42] Schedule Cleanup
+==========================================
+Enter the path to clean (e.g., /path/to/clean):
+Choose cleanup options:
+1. Delete files older than 60 days
+2. Rename files to add '.old' and mark as deprecated
+Enter your choice (1/2):
+Starting Backup Tool...
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule automatic cleanup
+5. Configure application settings
+6. Exit
+Your choice: Scheduling weekly cleanup...
+Enter the path to clean (e.g., /path/to/clean):
+===========================
+ Cleanup Configuration 
+===========================
+Choose what to do with old files:
+1. Delete files older than 60 days
+2. Rename files (add .old) and mark as deprecated
+Your choice: Do you want to add '#### DEPRECATED #####' inside files after renaming? (y/n):
+Cleanup scheduled successfully! Files older than 60 days in ./ will be managed every Monday at 8 PM.
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule automatic cleanup
+5. Configure application settings
+6. Exit
+Your choice: Starting Backup Tool...
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule automatic cleanup
+5. Exit
+Your choice: Scheduling weekly cleanup...
+Do you want to delete specific files older than 60 days? (y/n):
+Available files in the current directory:
+backup.sh
+ex2.txt
+ex4.txt
+ex5.txt
+file1.txt
+file2updated.log
+file3.old
+out.log
+rezerva64.xx.zip
+Enter the names of files to delete, separated by spaces:
+Do you want to rename files older than 60 days with '.old' extension and mark as deprecated? (y/n):
+Cleanup scheduled successfully!
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule automatic cleanup
+5. Exit
+Your choice: Starting Backup Tool...
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule automatic cleanup
+5. Exit
+Your choice: Scheduling weekly cleanup...
+Do you want to delete specific files older than 60 days? (y/n):
+Available files in the current directory:
+backup.sh
+ex2.txt
+ex4.txt
+ex5.txt
+file1.txt
+file2updated.log
+file3.old
+out.log
+rezerva64.xx.zip
+Enter the names of files to delete, separated by spaces:
+Do you want to rename files older than 60 days with '.old' extension and mark as deprecated? (y/n):
+Cleanup scheduled successfully!
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule automatic cleanup
+5. Exit
+Your choice: Scheduling weekly cleanup...
+Do you want to delete specific files older than 60 days? (y/n):
+Available files in the current directory:
+backup.sh
+ex2.txt
+ex4.txt
+ex5.txt
+file1.txt
+file2updated.log
+file3.old
+out.log
+rezerva64.xx.zip
+Enter the names of files to delete, separated by spaces:
+Do you want to rename files older than 60 days with '.old' extension and mark as deprecated? (y/n):
+Cleanup scheduled successfully!
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule automatic cleanup
+5. Exit
+Your choice: Starting Backup Tool...
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Running cleanup immediately...
+Do you want to delete specific files older than 60 days? (y/n):
+Available files in the current directory:
+backup.sh
+Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+ex2.txt
+ex4.txt
+ex5.txt
+file1.txt
+file2updated.log
+file3.old
+out.log
+rezerva64.xx.zip
+Enter the names of files to delete, separated by spaces:
+Do you want to rename files older than 60 days with '.old' extension and mark as deprecated? (y/n):
+Performing cleanup in: .
+Moved ex2.txt to ./backup
+Renamed to ./backup/ex2.txt.old
+Marked as deprecated: ./backup/ex2.txt.old
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Starting Backup Tool...
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Scheduling weekly cleanup...
+Do you want to delete specific files older than 1 day? (y/n):
+Available files in the current directory:
+backup.sh
+Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+ex4.txt
+ex5.txt
+file1.txt
+file2updated.log
+file3.old
+out.log
+rezerva64.xx.zip
+Enter the names of files to delete, separated by spaces:
+Do you want to rename files older than 1 day with '.old' before their extension and mark as deprecated? (y/n):
+Cleanup scheduled successfully!
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Starting Backup Tool...
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Scheduling weekly cleanup...
+Do you want to delete specific files older than 1 day? (y/n):
+Available files in the current directory:
+backup.sh
+Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+ex4.txt
+ex5.txt
+file1.txt
+file2updated.log
+file3.old
+out.log
+rezerva64.xx.zip
+Enter the names of files to delete, separated by spaces:
+Do you want to rename files older than 1 day with '.old' before their extension and mark as deprecated? (y/n):
+Cleanup scheduled successfully!
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Finding and managing old files...
+./backup.sh: line 134: find_old_files: command not found
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Invalid option. Try again.
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Finding and managing old files...
+./backup.sh: line 134: find_old_files: command not found
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Finding and managing old files...
+./backup.sh: line 134: find_old_files: command not found
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Finding and managing old files...
+./backup.sh: line 134: find_old_files: command not found
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Starting Backup Tool...
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Finding and managing old files...
+Enter a date or duration (e.g., 2023-01-01 or 1d):
+Finding files older than 1d...
+./cloud_backup/moved_files/ex3.txt
+./cloud_backup/moved_files/file2updated.log
+./cloud_backup/moved_files/ex1.txt
+./cloud_backup/moved_files/file3.old
+./cloud_backup/moved_files/file1.txt
+./cloud_backup/out.log
+./ex4.txt
+./ex5.txt
+./.gitignore
+./rezerva64.xx.zip
+./.git/index
+./.git/logs/refs/remotes/origin/main
+./.git/logs/refs/remotes/origin/HEAD
+./.git/logs/refs/heads/main
+./.git/logs/HEAD
+./.git/refs/remotes/origin/main
+./.git/refs/remotes/origin/HEAD
+./.git/refs/heads/main
+./.git/config
+./.git/packed-refs
+./.git/ORIG_HEAD
+./.git/objects/b4/06aab51a4b9a3b5848f506c8f05b644d089cd0
+./.git/objects/0a/ac7776563f8025b3cfdd9bdb798adf620749ac
+./.git/objects/0a/2fcbef8db4c3577fdbe9a840cfa0c8b1101088
+./.git/objects/88/1b8e8f6a4107ed29df1697276e21c0c3ad4568
+./.git/objects/f8/590061b4dc57b39bb497125c2b6454069aba73
+./.git/objects/00/497cc0d0be9e64d27b30d7496c207aab8462d4
+./.git/objects/2e/80f080a2d2edd3876405f561d150eb577d66f8
+./.git/objects/14/854908bd119cb28ac754d65ca6e12d123cced8
+./.git/objects/52/784248988fbf0c9da38ea28583e99286fff18d
+./.git/objects/38/18291ee1178d1c9df98c1628ceeb4b8d13ca89
+./.git/objects/38/64e3edafcdcafa57a60faa7cdc77a21bf6c83d
+./.git/objects/8d/5a66005456c9aa15b2ed00df3491eb810de007
+./.git/objects/36/ba1c5ed5ca01e63d26cf95ead19039c90c97c3
+./.git/objects/09/42d65537c0eddade8ad7441f0173410506f9a1
+./.git/objects/54/b99ce9a67f53092bfb4093e1850b5419c9239c
+./.git/objects/18/42ccd14f6c680181ca993e8c70950bdd8eb078
+./.git/objects/4e/c0aa29e46639f0d9226c24d46c5d7782dc414e
+./.git/objects/f9/751565c5ac02de5c12c1f1f6937fc793b8b65e
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.idx
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.pack
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.rev
+./.git/objects/f7/e2a5c1e94deabaa113904677032bd797bf7819
+./.git/objects/c5/de208c4f656c303edc0a8e13aa14b5b82f13ca
+./.git/objects/af/6ea2649b618d29c82b209763798f0cfb2b1b98
+./.git/objects/b2/bad743271964afa5b7d62028da2a90a9472450
+./.git/objects/b2/a1977d5932b43c4badbcd500c6cf3e53e6ab9f
+./.git/objects/e2/077694b1f0c47faf3960eb0b272dc3858fde5a
+./.git/objects/83/664b653ab88022fa4be336f080d05b5fad537b
+./.git/objects/bb/c30cee02f1e18375a4b0f7702054e0fa22790c
+./.git/objects/39/fecdd13d47a9a77ba96cfb3d4fc6b23ee56d08
+./.git/objects/39/d19dfbe36aeb9acd2c91315e41233cacd2654c
+./.git/objects/98/9ea4a6b7ecb5d6bf89604eec85362348e82bd5
+./.git/objects/ff/fd566e3e9f690c6c8892353332858ad6a9b36a
+./.git/objects/49/c54f2e7d1331f87d9b5bf28977f32e10980a9c
+./.git/objects/ac/3f3b9264c6ccb30b1c1ca087283a62fa9fa5e4
+./.git/objects/6b/38fc63948cb50f9126a95a8bb2e9fec3939251
+./.git/objects/b8/4a096b293c0431cf0545ec04ba2106e5c150d2
+./.git/objects/b8/1ab4a6b1104d5d623b3948e2d876051e67e3ca
+./.git/objects/a4/1e6c4e01f164c30b75437472cbe63662bd31b2
+./.git/objects/73/c1882c2a50008efe03257833b295430e4eaf67
+./.git/objects/24/6c89e879040aa28b484c93842c11ed66565c15
+./.git/objects/27/d396240331ab331ea00b7ab685df3408dd2679
+./.git/objects/63/06246537994805ac8687da4bb5e2af48cf3098
+./.git/objects/0b/f8e386f9706f61f199202ad72bc9ad3756a823
+./.git/objects/16/d9f176074e72f6a83fa9e5c2efa53fb37c1a1a
+./.git/objects/c7/02ba96447f359162129b4c3e4b06f1a31e72de
+./.git/objects/29/94f5a4f87f7ac33ae85274a0cb57a1ed34d836
+./.git/objects/29/f0c587e08925e6abd5c035b6f510ca6e6e32d9
+./.git/objects/92/4dfc3bd422187d0235691cf03d7250ac40d521
+./.git/objects/67/10bd9a8bbe2fa924cdbf74354dc90374d5f80b
+./.git/objects/9e/7420efd13d4f7fc175728cfcad53e9c326ccc7
+./.git/objects/de/9f00adea55a85f6df0c720e74fdefcdb04a337
+./.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+./.git/objects/e6/c9b3d215159f18b6a6179f74b774634207b034
+./.git/objects/69/6b57de9af3a6392908f5cfe13a34be799ec935
+./.git/objects/9b/629fad3715c02798ab9113004525a09491728c
+./.git/objects/f2/da04408d5c9836936fa1d833a95fae0d40f60d
+./.git/objects/4b/780e85e8066df2bf324bfb89e1d71b188a7789
+./.git/objects/cd/89bfbf6ef182cf7cc2abe1ca65795cbf7c08c0
+./.git/objects/57/738b0f3f33c6ac3282b59716bec7cad98f44c7
+./.git/objects/42/48fddb726b042615240d5fd53cd1591c902c00
+./.git/objects/fe/2daa05db5e0804867a7dbabfd10cd./cloud_backup/moved_files/ex3.txt
+./cloud_backup/moved_files/file2updated.log
+./cloud_backup/moved_files/ex1.txt
+./cloud_backup/moved_files/file3.old
+./cloud_backup/moved_files/file1.txt
+./cloud_backup/out.log
+./ex4.txt
+./ex5.txt
+./.gitignore
+./rezerva64.xx.zip
+./.git/index
+./.git/logs/refs/remotes/origin/main
+./.git/logs/refs/remotes/origin/HEAD
+./.git/logs/refs/heads/main
+./.git/logs/HEAD
+./.git/refs/remotes/origin/main
+./.git/refs/remotes/origin/HEAD
+./.git/refs/heads/main
+./.git/config
+./.git/packed-refs
+./.git/ORIG_HEAD
+./.git/objects/b4/06aab51a4b9a3b5848f506c8f05b644d089cd0
+./.git/objects/0a/ac7776563f8025b3cfdd9bdb798adf620749ac
+./.git/objects/0a/2fcbef8db4c3577fdbe9a840cfa0c8b1101088
+./.git/objects/88/1b8e8f6a4107ed29df1697276e21c0c3ad4568
+./.git/objects/f8/590061b4dc57b39bb497125c2b6454069aba73
+./.git/objects/00/497cc0d0be9e64d27b30d7496c207aab8462d4
+./.git/objects/2e/80f080a2d2edd3876405f561d150eb577d66f8
+./.git/objects/14/854908bd119cb28ac754d65ca6e12d123cced8
+./.git/objects/52/784248988fbf0c9da38ea28583e99286fff18d
+./.git/objects/38/18291ee1178d1c9df98c1628ceeb4b8d13ca89
+./.git/objects/38/64e3edafcdcafa57a60faa7cdc77a21bf6c83d
+./.git/objects/8d/5a66005456c9aa15b2ed00df3491eb810de007
+./.git/objects/36/ba1c5ed5ca01e63d26cf95ead19039c90c97c3
+./.git/objects/09/42d65537c0eddade8ad7441f0173410506f9a1
+./.git/objects/54/b99ce9a67f53092bfb4093e1850b5419c9239c
+./.git/objects/18/42ccd14f6c680181ca993e8c70950bdd8eb078
+./.git/objects/4e/c0aa29e46639f0d9226c24d46c5d7782dc414e
+./.git/objects/f9/751565c5ac02de5c12c1f1f6937fc793b8b65e
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.idx
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.pack
+./.git/objects/pack/pack-84aa7dd2d78edede77beb6aeac133708b2686426.rev
+./.git/objects/f7/e2a5c1e94deabaa113904677032bd797bf7819
+./.git/objects/c5/de208c4f656c303edc0a8e13aa14b5b82f13ca
+./.git/objects/af/6ea2649b618d29c82b209763798f0cfb2b1b98
+./.git/objects/b2/bad743271964afa5b7d62028da2a90a9472450
+./.git/objects/b2/a1977d5932b43c4badbcd500c6cf3e53e6ab9f
+./.git/objects/e2/077694b1f0c47faf3960eb0b272dc3858fde5a
+./.git/objects/83/664b653ab88022fa4be336f080d05b5fad537b
+./.git/objects/bb/c30cee02f1e18375a4b0f7702054e0fa22790c
+./.git/objects/39/fecdd13d47a9a77ba96cfb3d4fc6b23ee56d08
+./.git/objects/39/d19dfbe36aeb9acd2c91315e41233cacd2654c
+./.git/objects/98/9ea4a6b7ecb5d6bf89604eec85362348e82bd5
+./.git/objects/ff/fd566e3e9f690c6c8892353332858ad6a9b36a
+./.git/objects/49/c54f2e7d1331f87d9b5bf28977f32e10980a9c
+./.git/objects/ac/3f3b9264c6ccb30b1c1ca087283a62fa9fa5e4
+./.git/objects/6b/38fc63948cb50f9126a95a8bb2e9fec3939251
+./.git/objects/b8/4a096b293c0431cf0545ec04ba2106e5c150d2
+./.git/objects/b8/1ab4a6b1104d5d623b3948e2d876051e67e3ca
+./.git/objects/a4/1e6c4e01f164c30b75437472cbe63662bd31b2
+./.git/objects/73/c1882c2a50008efe03257833b295430e4eaf67
+./.git/objects/24/6c89e879040aa28b484c93842c11ed66565c15
+./.git/objects/27/d396240331ab331ea00b7ab685df3408dd2679
+./.git/objects/63/06246537994805ac8687da4bb5e2af48cf3098
+./.git/objects/0b/f8e386f9706f61f199202ad72bc9ad3756a823
+./.git/objects/16/d9f176074e72f6a83fa9e5c2efa53fb37c1a1a
+./.git/objects/c7/02ba96447f359162129b4c3e4b06f1a31e72de
+./.git/objects/29/94f5a4f87f7ac33ae85274a0cb57a1ed34d836
+./.git/objects/29/f0c587e08925e6abd5c035b6f510ca6e6e32d9
+./.git/objects/92/4dfc3bd422187d0235691cf03d7250ac40d521
+./.git/objects/67/10bd9a8bbe2fa924cdbf74354dc90374d5f80b
+./.git/objects/9e/7420efd13d4f7fc175728cfcad53e9c326ccc7
+./.git/objects/de/9f00adea55a85f6df0c720e74fdefcdb04a337
+./.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+./.git/objects/e6/c9b3d215159f18b6a6179f74b774634207b034
+./.git/objects/69/6b57de9af3a6392908f5cfe13a34be799ec935
+./.git/objects/9b/629fad3715c02798ab9113004525a09491728c
+./.git/objects/f2/da04408d5c9836936fa1d833a95fae0d40f60d
+./.git/objects/4b/780e85e8066df2bf324bfb89e1d71b188a7789
+./.git/objects/cd/89bfbf6ef182cf7cc2abe1ca65795cbf7c08c0
+./.git/objects/57/738b0f3f33c6ac3282b59716bec7cad98f44c7
+./.git/objects/42/48fddb726b042615240d5fd53cd1591c902c00
+./.git/objects/fe/2daa05db5e0804867a7dbabfd10cd28bda3b47
+./.git/objects/b3/e033bdd5bb881ea707c8c33e71c16a92d3d45e
+./.git/objects/6c/e0ae9805b8c447f41b188063f16d21f0527be7
+./.git/objects/86/365652b5e73169fa8ba365ff5cf68d0e707089
+./.git/objects/59/49130712aa9917fe661c22d0cd384a279830cb
+./.git/COMMIT_EDITMSG
+./.git/FETCH_HEAD
+./.git/description
+./.git/info/exclude
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/sendemail-validate.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/update.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/push-to-checkout.sample
+./.git/HEAD
+./file2updated.log
+./Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+./file3.old
+./.ex2.txt.swp
+./file1.txt
+./.ex5.txt.swp
+28bda3b47
+./.git/objects/b3/e033bdd5bb881ea707c8c33e71c16a92d3d45e
+./.git/objects/6c/e0ae9805b8c447f41b188063f16d21f0527be7
+./.git/objects/86/365652b5e73169fa8ba365ff5cf68d0e707089
+./.git/objects/59/49130712aa9917fe661c22d0cd384a279830cb
+./.git/COMMIT_EDITMSG
+./.git/FETCH_HEAD
+./.git/description
+./.git/info/exclude
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/sendemail-validate.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/update.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/push-to-checkout.sample
+./.git/HEAD
+./file2updated.log
+./Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+./file3.old
+./.ex2.txt.swp
+./file1.txt
+./.ex5.txt.swp
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Moving files...
+Available files in the current directory:
+backup.sh
+Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+ex4.txt
+ex5.txt
+file1.txt
+file2updated.log
+file3.old
+out.log
+rezerva64.xx.zip
+Enter the names of files to move, separated by spaces:
+Moved ex4.txt to ./backup
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Moving files...
+Available files in the current directory:
+backup.sh
+Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+ex5.txt
+file1.txt
+file2updated.log
+file3.old
+out.log
+rezerva64.xx.zip
+Enter the names of files to move, separated by spaces:
+Starting Backup Tool...
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: ./backup.sh: line 230: unexpected EOF while looking for matching `"'
+./backup.sh: line 232: unexpected token `�' in conditional command
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Finding and managing old files...
+Enter a date or duration (e.g., 2023-01-01 or 1d):
+Finding files older than 1d...
+find: ‘./my_files’: No such file or directory
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Finding and managing old files...
+Enter a date or duration (e.g., 2023-01-01 or 1d):
+Finding files older than 1d...
+./my_files/ex5.txt
+./my_files/rezerva64.xx.zip
+./my_files/file2updated.log
+./my_files/Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+./my_files/file3.old
+./my_files/file1.txt
+./my_files/ex5.txt
+./my_files/rezerva64.xx.zip
+./my_files/file2updated.log
+./my_files/Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+./my_files/file3.old
+./my_files/file1.txt
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Moving files...
+Available files in the current directory:
+backup.sh
+out.log
+Enter the names of files to move, separated by spaces:
+Move the file to:
+1. Local backup directory
+2. Cloud backup
+Choose an option (1/2): ===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Finding and managing old files...
+Enter a date or duration (e.g., 2023-01-01 or 1d):
+Finding files older than 1d...
+./my_files/rezerva64.xx.zip
+./my_files/file2updated.log
+./my_files/Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+./my_files/file3.old
+./my_files/rezerva64.xx.zip
+./my_files/file2updated.log
+./my_files/Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+./my_files/file3.old
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Moving files...
+Available files in ./my_files:
+Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+file2updated.log
+file3.old
+rezerva64.xx.zip
+Enter the names of files to move, separated by spaces:
+Move the file to:
+1. Local backup directory
+2. Cloud backup
+Choose an option (1/2): Moved file3.old to ./backup
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Moving files...
+Available files in ./my_files:
+Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh
+file2updated.log
+rezerva64.xx.zip
+Enter the names of files to move, separated by spaces:
+Move the file to:
+1. Local backup directory
+2. Cloud backup
+Choose an option (1/2): Copied file2updated.log to cloud directory: cloud_backup/moved_files
+Syncing logs to cloud...
