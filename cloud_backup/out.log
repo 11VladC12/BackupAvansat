@@ -1579,3 +1579,520 @@ Move the file to:
 2. Cloud backup
 Choose an option (1/2): Copied file2updated.log to cloud directory: cloud_backup/moved_files
 Syncing logs to cloud...
+[main 7491359] Sync: Mon Jan  6 04:34:36 PM EET 2025
+ 1 file changed, 949 insertions(+)
+To github.com:11VladC12/BackupAvansat.git
+   1485490..7491359  main -> main
+/home/atlant/Desktop/BackupAvansat
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Running cleanup immediately...
+Do you want to delete specific files older than 1 day? (y/n):
+Available files in the current directory:
+backup.sh
+ex5.txt
+file1.txt
+out.log
+Enter the names of files to delete, separated by spaces:
+Do you want to rename files older than 1 day with '.old' before their extension and mark as deprecated? (y/n):
+Performing cleanup in: ./my_files
+File not found: ex5.txt
+Moved rezerva64.xx.zip to ./backup
+Renamed to ./backup/rezerva64.xx.old.zip
+Marked as deprecated: ./backup/rezerva64.xx.old.zip
+Moved file2updated.log to ./backup
+Renamed to ./backup/file2updated.old.log
+Marked as deprecated: ./backup/file2updated.old.log
+Moved Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.sh to ./backup
+Renamed to ./backup/Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.old.sh
+Marked as deprecated: ./backup/Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.old.sh
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: ===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Running cleanup immediately...
+Do you want to delete specific files older than 1 day? (y/n):
+Do you want to rename files older than 1 day with '.old' before their extension and mark as deprecated? (y/n):
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: Running cleanup immediately...
+Do you want to delete specific files older than 1 day? (y/n):
+Available files in ./my_files:
+file1.txt
+Enter the names of files to delete from ./my_files, separated by spaces:
+Do you want to rename files older than 1 day with '.old' before their extension and mark as deprecated? (y/n):
+Performing cleanup in: ./my_files
+Moved file1.txt to ./backup
+===========================
+ Advanced File Backup Tool 
+===========================
+Choose an option:
+1. Find files older than a date
+2. Move files locally or to cloud
+3. Sync logs to cloud
+4. Schedule or run cleanup immediately
+5. Exit
+Your choice: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: =========================================
+            Advanced Backup Tool         
+=========================================
+Comenzi disponibile:
+  ./backup.sh [optiuni]
+Optiuni:
+  -h, --help            Afiseaza acest mesaj de ajutor
+  --debug=on|off        Activeaza sau dezactiveaza modul de debug (implicit: off)
+Functionalitati interactive:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+=========================================
+Exemple utilizare:
+  1. Ruleaza scriptul normal: ./backup.sh
+  2. Activeaza debug: ./backup.sh --debug=on
+  3. Afiseaza ajutor: ./backup.sh --help
+=========================================
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Finding and managing old files...
+Enter a date or duration (e.g., 2023-01-01 or 1d):
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Caut si gestionez fisiere vechi...
+Introdu o data sau o durata (ex.: 2023-01-01 sau 1d):
+Caut fisiere mai vechi de 1d...
+./my_files/ex4.txt
+./my_files/ex5.txt
+./my_files/file3.old
+./my_files/file1.txt
+./my_files/ex4.txt
+./my_files/ex5.txt
+./my_files/file3.old
+./my_files/file1.txt
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Rulez curatarea imediat...
+Vrei sa stergi fisiere specifice mai vechi de 1 zi? (y/n):
+Fisiere disponibile in ./my_files:
+Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.old.sh
+ex2.txt.old
+ex4.txt
+ex5.txt
+file1.txt
+file2updated.old.log
+file3.old
+rezerva64.xx.old.zip
+Introdu numele fisierelor de sters din ./my_files, separate prin spatii:
+Vrei sa redenumesti fisierele mai vechi de 1 zi adaugand '.old' inaintea extensiei si sa le marchezi ca depreciate? (y/n):
+Execut curatarea in: ./my_files
+Sters: ex4.txt
+Mutat: ex5.txt in ./backup
+Redenumit: ./backup/ex5.old.txt
+Marcat ca depreciat: ./backup/ex5.old.txt
+Mutat: file3.old in ./backup
+Redenumit: ./backup/file3.old.old
+Marcat ca depreciat: ./backup/file3.old.old
+Mutat: file1.txt in ./backup
+Redenumit: ./backup/file1.old.txt
+Marcat ca depreciat: ./backup/file1.old.txt
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: [H[2J[3J===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Caut si gestionez fisiere vechi...
+Introdu o data sau o durata (ex.: 2023-01-01 sau 1d):
+Caut fisiere mai vechi de 1d...
+[H[2J[3J===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: [H[2J[3J===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Caut si gestionez fisiere vechi...
+Introdu o data sau o durata (ex.: 2023-01-01 sau 1d):
+Caut fisiere mai vechi de 1d...
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Caut si gestionez fisiere vechi...
+Introdu o data sau o durata (ex.: 2023-01-01 sau 1d):
+Caut fisiere mai vechi de 0d...
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Caut si gestionez fisiere vechi...
+Introdu o data sau o durata (ex.: 2023-01-01 sau 1d):
+Caut fisiere mai vechi de 1d...
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Caut si gestionez fisiere vechi...
+Introdu o data sau o durata (ex.: 2023-01-01 sau 1d):
+Caut fisiere mai vechi de 0d...
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Caut si gestionez fisiere vechi...
+Introdu o data sau o durata (ex.: 2023-01-01 sau 1d):
+Caut fisiere mai vechi de 1d...
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Caut si gestionez fisiere vechi...
+Introdu o data sau o durata (ex.: 2023-01-01 sau 1d):
+Caut fisiere mai vechi de 1d...
+./backup/ex1.sh
+./backup/ex1.sh
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Rulez curățarea imediat...
+Vrei să redenumești fișierele mai vechi de 1 zi adăugând '.old' înaintea extensiei și să le marchezi ca depreciate? (y/n):
+Execut curățarea în: ./backup
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Rulez curățarea imediat...
+Vrei să redenumești fișierele mai vechi de 1 zi adăugând '.old' înaintea extensiei și să le marchezi ca depreciate? (y/n):
+Execut curățarea în: ./my_files
+Mutat: ex1.sh în ./backup
+Redenumit: ./backup/ex1.old.sh
+Marcat ca depreciat: ./backup/ex1.old.sh
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Caut si gestionez fisiere vechi...
+Introdu o data sau o durata (ex.: 2023-01-01 sau 1d):
+Caut fisiere mai vechi de 1d...
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Caut si gestionez fisiere vechi...
+Introdu o data sau o durata (ex.: 2023-01-01 sau 1d):
+Caut fisiere mai vechi de 1d...
+./backup/rezerva87.xx.zip
+./backup/rezerva87.xx.zip
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Mut fisiere...
+Fisiere disponibile in ./my_files:
+Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.old.sh
+ex2.txt.old
+file2updated.old.log
+rezerva64.xx.old.zip
+Introdu numele fisierelor de mutat, separate prin spatii:
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Mut fisiere...
+Fișiere disponibile în ./my_files:
+1. Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.old.sh
+2. ex2.txt.old
+3. file2updated.old.log
+4. rezerva64.xx.old.zip
+Introdu numerele fișierelor de mutat, separate prin spații (ex.: 1 3 5):
+Muta fișierul ex2.txt.old în:
+1. Director local de backup
+2. Backup în cloud
+Alege o opțiune (1/2): Fișierul ex2.txt.old a fost copiat în directorul cloud: cloud_backup/moved_files
+Sincronizez logurile cu cloud-ul...
