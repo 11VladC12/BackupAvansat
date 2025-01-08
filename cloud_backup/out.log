@@ -2096,3 +2096,102 @@ Muta fișierul ex2.txt.old în:
 2. Backup în cloud
 Alege o opțiune (1/2): Fișierul ex2.txt.old a fost copiat în directorul cloud: cloud_backup/moved_files
 Sincronizez logurile cu cloud-ul...
+[main 44cbef0] Sync: Tue Jan  7 12:17:56 PM EET 2025
+ 2 files changed, 518 insertions(+)
+ create mode 100644 cloud_backup/moved_files/ex2.txt.old
+To github.com:11VladC12/BackupAvansat.git
+   7491359..44cbef0  main -> main
+/home/atlant/Desktop/BackupAvansat
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Mut fisiere...
+Fișiere disponibile în ./my_files:
+1. Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.old.sh
+2. ex2.txt.old
+3. file2updated.old.log
+4. rezerva64.xx.old.zip
+Introdu numerele fișierelor de mutat, separate prin spații (ex.: 1 3 5):
+Muta fișierul ex2.txt.old în:
+1. Director local de backup
+2. Backup în cloud
+Alege o opțiune (1/2): Fișierul ex2.txt.old a fost mutat în ./backup
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o optiune:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+===============================
+Alegerea ta: Opțiune invalidă. Încearcă din nou.
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: Opțiune invalidă. Încearcă din nou.
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: Opțiune invalidă. Încearcă din nou.
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: Opțiune invalidă. Încearcă din nou.
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: Opțiune invalidă. Încearcă din nou.
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: Sincronizez logurile cu cloud-ul...
+Sincronizez logurile cu cloud-ul...
