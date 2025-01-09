@@ -2195,3 +2195,248 @@ Alege o opțiune:
 ===============================
 Alegerea ta: Sincronizez logurile cu cloud-ul...
 Sincronizez logurile cu cloud-ul...
+[main dda3d85] Sync: Wed Jan  8 09:29:32 AM EET 2025
+ 1 file changed, 99 insertions(+)
+To github.com:11VladC12/BackupAvansat.git
+   44cbef0..dda3d85  main -> main
+/home/atlant/Desktop/BackupAvansat
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: Rulez curățarea imediat...
+Vrei să redenumești fișierele mai vechi de 1 zi adăugând '.old' înaintea extensiei și să le marchezi ca depreciate? (y/n):
+Execut curățarea în directoarele/fișierele: ./my_files
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: ./backup.sh: line 299: print_menu: command not found
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: Rulez curățarea imediat...
+Vrei să redenumești fișierele mai vechi de 1 zi adăugând '.old' înaintea extensiei și să le marchezi ca depreciate? (y/n):
+Execut curățarea în directoarele/fișierele: ./my_files ./randomWork
+Mutat: rezerva87.xx.zip în ./backup
+Redenumit: ./backup/rezerva87.xx.old.zip
+Marcat ca depreciat: ./backup/rezerva87.xx.old.zip
+Mutat: ex2.txt.old în ./backup
+Redenumit: ./backup/ex2.txt.old.old
+Marcat ca depreciat: ./backup/ex2.txt.old.old
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: Rulez curățarea imediat...
+Vrei să redenumești fișierele mai vechi de 1 zi adăugând '.old' înaintea extensiei și să le marchezi ca depreciate? (y/n):
+Execut curățarea în directoarele/fișierele: ./my_files ./randomWork
+Mutat: Cojocaru_Vlad_lab_3_ex_1_grupa_4_IR2.sh în ./backup
+Redenumit: ./backup/Cojocaru_Vlad_lab_3_ex_1_grupa_4_IR2.old.sh
+Marcat ca depreciat: ./backup/Cojocaru_Vlad_lab_3_ex_1_grupa_4_IR2.old.sh
+Mutat: results.txt în ./backup
+Redenumit: ./backup/results.old.txt
+Marcat ca depreciat: ./backup/results.old.txt
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: =========================================
+            Advanced Backup Tool         
+=========================================
+Comenzi disponibile:
+  ./backup.sh [optiuni]
+Optiuni:
+  -h, --help            Afiseaza acest mesaj de ajutor
+  --debug=on|off        Activeaza sau dezactiveaza modul de debug (implicit: off)
+Functionalitati interactive:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+=========================================
+Exemple utilizare:
+  1. Ruleaza scriptul normal: ./backup.sh
+  2. Activeaza debug: ./backup.sh --debug=on
+  3. Afiseaza ajutor: ./backup.sh --help
+=========================================
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: Caut și gestionez fișiere vechi...
+Introdu o data sau o durata (ex.: 2023-01-01 sau 1d):
+Caut fisiere mai vechi de 1d...
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: Caut și gestionez fișiere vechi...
+Introdu o data sau o durata (ex.: 2023-01-01 sau 1d):
+Caut fisiere mai vechi de 0d...
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: =========================================
+            Advanced Backup Tool         
+=========================================
+Comenzi disponibile:
+  ./backup.sh [optiuni]
+Optiuni:
+  -h, --help            Afiseaza acest mesaj de ajutor
+  --debug=on|off        Activeaza sau dezactiveaza modul de debug (implicit: off)
+Functionalitati interactive:
+  1. Gaseste fisiere mai vechi decat o anumita data
+  2. Muta fisiere local sau in cloud
+  3. Sincronizeaza log-urile cu cloud-ul
+  4. Programeaza sau ruleaza imediat curatarea
+  5. Iesire
+=========================================
+Exemple utilizare:
+  1. Ruleaza scriptul normal: ./backup.sh
+  2. Activeaza debug: ./backup.sh --debug=on
+  3. Afiseaza ajutor: ./backup.sh --help
+=========================================
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: Rulez curățarea imediat...
+Vrei să redenumești fișierele mai vechi de 1 zi adăugând '.old' înaintea extensiei și să le marchezi ca depreciate? (y/n):
+Execut curățarea în directoarele/fișierele: ./my_files ./randomWork
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: ===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: Rulez curățarea imediat...
+Vrei să redenumești fișierele mai vechi de 1 zi adăugând '.old' înaintea extensiei și să le marchezi ca depreciate? (y/n):
+Execut curățarea în directoarele/fișierele: ./my_files
+===============================
+     Advanced File Backup Tool 
+===============================
+Alege o opțiune:
+  1. Găsește fișiere mai vechi decât o anumită dată
+  2. Mută fișiere local sau în cloud
+  3. Șterge fișiere din backup
+  4. Sincronizează log-urile cu cloud-ul
+  5. Programează sau rulează imediat curățarea
+  6. Ieșire
+===============================
+Alegerea ta: ./backup/Cojocaru_Vlad_lab_2_ex_1_grupa_4_IR2.old.sh
